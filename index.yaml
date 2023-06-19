@@ -3,12 +3,12 @@ entries:
   zookeeper:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-20T01:30:07.029878+05:30"
+    created: "2023-06-20T01:33:46.8429733+05:30"
     description: A Helm chart for Kubernetes
     digest: 2ddbbd897d82291fe3f6fa96d12e70f0dfef381341450a72af5a262813ba0821
     name: zookeeper
     type: application
     urls:
-    - https://sudh92.github.io/zookeeper/zookeeper-0.1.0.tgz
+    - https://sudh92.github.io/zookeeper/zookeeper/zookeeper-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-20T01:30:07.0293068+05:30"
+generated: "2023-06-20T01:33:46.8423605+05:30"
